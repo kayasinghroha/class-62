@@ -1,0 +1,15 @@
+body{
+text-align: center;
+text-decoration: dashed;
+background-color: aqua;
+
+}
+.line{height: 6px;   width: 70px;
+background-color: black;
+margin: 8px auto;}
+
+
+
+#myCarousel{
+    background-color: gold;
+}
